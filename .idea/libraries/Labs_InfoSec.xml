@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Labs_InfoSec">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Labs_InfoSec.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
